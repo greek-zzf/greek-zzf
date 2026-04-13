@@ -1,3 +1,5 @@
+[English](./README.md) | [中文](./README.zh-CN.md)
+
 # Hey, I'm Felix 👋
 
 > _创造的快乐 > 消费的快乐_
