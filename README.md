@@ -12,9 +12,10 @@ AI 出海独立开发者，坐标深圳。5 年程序员 → 2025 年底转型�
 
 | 项目 | 简介 |
 |------|------|
-| [Passport Size Photo](https://github.com/zhouzhaofeng) | 在线护照/签证照片制作工具，支持多国尺寸标准 |
+| [Passport Size Photo](https://passportsizephoto.net) | 在线护照/签证照片制作工具，支持多国尺寸标准 |
 | [Bubble Letters](https://github.com/zhouzhaofeng) | 泡泡字体生成器，支持多种渲染模式和导出格式 |
-| [Songless](https://github.com/zhouzhaofeng) | 猜歌游戏，每日挑战 + 无限模式 |
+| [龙虾 openclaw 俱乐部](https://longxiabot.club) | 龙虾 openclaw 俱乐部|
+| [Songless](https://songless.pro) | 猜歌游戏，每日挑战 + 无限模式 |
 
 > 💡 _还有更多想法在路上：涂色页生成、Grid Maker、Hum to Search……_
 
@@ -76,7 +77,7 @@ AI 出海独立开发者，坐标深圳。5 年程序员 → 2025 年底转型�
 
 ## 🏊 关于生活
 
-- 游泳爱好者，2024 年 6 月开始，每周坚持
+- 游泳爱好者，2025 年 6 月开始，每周坚持
 - 咖啡店常驻选手（在家不知道要拖延到什么时候）
 - 曾经是个不出门的技术宅，现在每周都要去一个没去过的地方
 - 去过张惠妹演唱会，在青岛，值得 n 刷
@@ -85,7 +86,7 @@ AI 出海独立开发者，坐标深圳。5 年程序员 → 2025 年底转型�
 
 ## 📬 找到我
 
-- **公众号**：搜索 Felix 的 AI 出海日记（或你的实际公众号名）
+- **公众号**：搜索 Felix的AI笔记
 - **GitHub**：你已经在这了 😄
 
 ---
