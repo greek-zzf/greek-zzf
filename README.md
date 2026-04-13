@@ -4,9 +4,9 @@
 
 > _The joy of creating > The joy of consuming_
 
-Indie developer going global from Shenzhen, China. 5+ years as a software engineer → went indie in late 2025, building AI-powered products for a global audience.
+Indie developer going global from Shenzhen, China. 5+ years as a software engineer → went indie in late 2025, building products for a global audience with AI tools.
 
-I also write about AI development, going global, and self-awareness on my WeChat blog.
+I also write on WeChat about AI development, indie hacking abroad, and self-awareness.
 
 ---
 
@@ -14,9 +14,10 @@ I also write about AI development, going global, and self-awareness on my WeChat
 
 | Project | Description |
 |---------|-------------|
-| [Passport Size Photo](https://github.com/zhouzhaofeng) | Online passport & visa photo maker supporting multi-country size standards |
+| [Passport Size Photo](https://passportsizephoto.net) | Online passport & visa photo maker with multi-country size standards |
 | [Bubble Letters](https://github.com/zhouzhaofeng) | Bubble letter generator with multiple rendering modes and export formats |
-| [Songless](https://github.com/zhouzhaofeng) | Guess-the-song game — daily challenge + endless mode |
+| [Lobster OpenClaw Club](https://longxiabot.club) | Lobster OpenClaw Club |
+| [Songless](https://songless.pro) | Guess-the-song game — daily challenge + endless mode |
 
 > 💡 _More ideas in the pipeline: coloring pages, Grid Maker, Hum to Search…_
 
@@ -54,7 +55,7 @@ Systems thinking > Inspiration-driven
 
 ## ✍️ I Write Too
 
-I document my AI dev journey and indie hacking life. My style:
+I document my AI dev journey and indie hacking life on WeChat. My style:
 
 - Story first, insight later — never lead with conclusions
 - Concrete over vague — not "recently," but "last Wednesday afternoon at Starbucks"
@@ -78,7 +79,7 @@ I document my AI dev journey and indie hacking life. My style:
 
 ## 🏊 Life Outside Code
 
-- Swimmer since June 2024 — weekly without fail
+- Swimmer since June 2025 — weekly without fail
 - Coffee-shop regular (at home I'd procrastinate forever)
 - Used to be a homebody who never went out — now I explore a new place every week
 - Went to an A-Mei concert in Qingdao. Worth every replay
@@ -87,7 +88,7 @@ I document my AI dev journey and indie hacking life. My style:
 
 ## 📬 Find Me
 
-- **WeChat Blog**: Felix's AI Indie Hacking Journal (or your actual name)
+- **WeChat**: Search "Felix的AI笔记"
 - **GitHub**: You're already here 😄
 
 ---
