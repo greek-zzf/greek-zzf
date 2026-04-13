@@ -1,16 +1,95 @@
-## Hi there 👋
+# Hey, I'm Felix 👋
 
-<!--
-**greek-zzf/greek-zzf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> _创造的快乐 > 消费的快乐_
 
-Here are some ideas to get you started:
+AI 出海独立开发者，坐标深圳。5 年程序员 → 2025 年底转型独立开发，用 AI 工具构建面向全球用户的产品。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+同时也是一个公众号作者，记录 AI 开发、出海日常和自我觉察。
+
+---
+
+## 🚀 我在做的事
+
+| 项目 | 简介 |
+|------|------|
+| [Passport Size Photo](https://github.com/zhouzhaofeng) | 在线护照/签证照片制作工具，支持多国尺寸标准 |
+| [Bubble Letters](https://github.com/zhouzhaofeng) | 泡泡字体生成器，支持多种渲染模式和导出格式 |
+| [Songless](https://github.com/zhouzhaofeng) | 猜歌游戏，每日挑战 + 无限模式 |
+
+> 💡 _还有更多想法在路上：涂色页生成、Grid Maker、Hum to Search……_
+
+---
+
+## 🧠 我相信的事
+
+```
+行动 > 焦虑
+觉察 > 自我欺骗
+真实体验 > 职业规划
+产品价值 > 技术炫技
+系统化思维 > 灵感驱动
+```
+
+- **工具组合 > 单一工具** — 不是买一把瑞士军刀就能搞定所有菜，切菜刀、炒菜锅、蒸锅各司其职。
+- **成本敏感不丢人** — 月均 55 元的 AI 工具组合，覆盖 90% 需求。省下的钱够在咖啡店写一年代码。
+- **别被 AI 焦虑绑架** — 用 AI 做出了什么，才是关键。
+- **未来属于一人公司** — 你向社会提供的，就是具有自我风格的生产系统。
+
+---
+
+## 🛠 Tech Stack
+
+**开发**：JavaScript / TypeScript / Next.js / Vite / Node.js
+
+**AI 工具链**：
+- 🤖 Gemini (Antigravity) — 核心编码搭档
+- 📓 NotebookLM — 学习研究（3 天学会 SEO 就靠它）
+- 🧪 Claude Code — 思考与笔记
+
+**出海**：SEO / Google Search Console / Google Analytics / Ahrefs
+
+---
+
+## ✍️ 我也写东西
+
+公众号上记录 AI 开发和出海日常，风格大概是这样的：
+
+- 先讲故事，再提炼观点，不直接给结论
+- 喜欢具体化表达 — 不说"最近"，说"上周三下午在星巴克"
+- 会自问自答、层层追问，直到找到埋藏的真相
+- 不回避脆弱，也不避讳自嘲
+
+> _一个人最有魅力的时刻，可能就是专注做事的时候。_
+
+---
+
+## 📖 塑造我的书
+
+| 书名 | 一句话影响 |
+|------|-----------|
+| 《人生十二法则》 | 真诚是一门沟通技巧，勇气是强者与弱者的分水岭 |
+| 《遇见未知的自己》 | 臣服已发生的事情，专注当下 |
+| 《少有人走的路》 | 科学精神也是一种信仰 |
+| 《被讨厌的勇气》 | 勇气 |
+
+---
+
+## 🏊 关于生活
+
+- 游泳爱好者，2024 年 6 月开始，每周坚持
+- 咖啡店常驻选手（在家不知道要拖延到什么时候）
+- 曾经是个不出门的技术宅，现在每周都要去一个没去过的地方
+- 去过张惠妹演唱会，在青岛，值得 n 刷
+
+---
+
+## 📬 找到我
+
+- **公众号**：搜索 Felix 的 AI 出海日记（或你的实际公众号名）
+- **GitHub**：你已经在这了 😄
+
+---
+
+<p align="center">
+  <i>没有什么特别的目的，享受目前这个输出创造的过程，就挺好。</i>
+</p>
