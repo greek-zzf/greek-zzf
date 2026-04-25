@@ -18,6 +18,8 @@ AI 出海独立开发者，坐标深圳。5 年程序员 → 2025 年底转型�
 | [Bubble Letters](https://github.com/zhouzhaofeng) | 泡泡字体生成器，支持多种渲染模式和导出格式 |
 | [龙虾 openclaw 俱乐部](https://longxiabot.club) | 龙虾 openclaw 俱乐部|
 | [Songless](https://songless.pro) | 猜歌游戏，每日挑战 + 无限模式 |
+| [r34dle](https://r34dle.org) | R34dle：猜哪个角色或标签帖子更多 |
+
 
 > 💡 _还有更多想法在路上：涂色页生成、Grid Maker、Hum to Search……_
 
