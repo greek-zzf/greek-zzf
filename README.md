@@ -18,6 +18,7 @@ I also write on WeChat about AI development, indie hacking abroad, and self-awar
 | [Bubble Letters](https://github.com/zhouzhaofeng) | Bubble letter generator with multiple rendering modes and export formats |
 | [Lobster OpenClaw Club](https://longxiabot.club) | Lobster OpenClaw Club |
 | [Songless](https://songless.pro) | Guess-the-song game — daily challenge + endless mode |
+| [r43dle](https://r34dle.org) | R34dle: Guess Which Character or Tag Has More Posts |
 
 > 💡 _More ideas in the pipeline: coloring pages, Grid Maker, Hum to Search…_
 
