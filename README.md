@@ -19,8 +19,7 @@ I also write on WeChat about AI development, indie hacking abroad, and self-awar
 | [Lobster OpenClaw Club](https://longxiabot.club) | Lobster OpenClaw Club |
 | [Songless](https://songless.pro) | Guess-the-song game — daily challenge + endless mode |
 | [r34dle](https://r34dle.org) | R34dle: Guess Which Character or Tag Has More Posts |
-| [Claude Code Installer](https://claude.felix.garden/) | Visual one-click installer for Claude Code + CC-Switch — China-friendly mirrors & domestic model
-  presets |
+| [Claude Code Installer](https://claude.felix.garden/) | Visual one-click installer for Claude Code + CC-Switch — China-friendly mirrors & domestic model presets |
 
 > 💡 _More ideas in the pipeline: coloring pages, Grid Maker, Hum to Search…_
 
