@@ -14,6 +14,7 @@ AI 出海独立开发者，坐标深圳。5 年程序员 → 2025 年底转型�
 
 | 项目 | 简介 |
 |------|------|
+| [Loomet](https://loomet.app) | 在线串珠工具|
 | [Passport Size Photo](https://passportsizephoto.net) | 在线护照/签证照片制作工具，支持多国尺寸标准 |
 | [Bubble Letters](https://bubblelettes.app) | 泡泡字体生成器，支持多种渲染模式和导出格式 |
 | [龙虾 openclaw 俱乐部](https://longxiabot.club) | 龙虾 openclaw 俱乐部|
