@@ -14,6 +14,7 @@ I also write on WeChat about AI development, indie hacking abroad, and self-awar
 
 | Project | Description |
 |---------|-------------|
+| [Loomet](https://loomet.app) | Online Bead Pattern Maker|
 | [Passport Size Photo](https://passportsizephoto.net) | Online passport & visa photo maker with multi-country size standards |
 | [Bubble Letters](https://bubbleletters.app) | Bubble letter generator with multiple rendering modes and export formats |
 | [Lobster OpenClaw Club](https://longxiabot.club) | Lobster OpenClaw Club |
